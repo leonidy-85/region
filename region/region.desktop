@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=region
+Exec=qmlscene %U region/main.qml
+Icon=region/region.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

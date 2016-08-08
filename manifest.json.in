@@ -1,0 +1,15 @@
+{
+    "name": "region",
+    "description": "region",
+    "architecture": "@CLICK_ARCH@",
+    "title": "region",
+    "hooks": {
+        "region": {
+            "apparmor": "region/region.apparmor",
+            "desktop": "region/region.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Leonid Yurasov <leonidy85@gmail.com>",
+    "framework": "ubuntu-sdk-15.04.6"
+}

@@ -1,0 +1,8 @@
+{
+    "policy_groups": [
+        "networking",
+        "connectivity",
+        "debug"
+    ],
+    "policy_version": 1.3
+}
